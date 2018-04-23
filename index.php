@@ -257,6 +257,6 @@
 	</head>
 	<body onload="init()">
 		<div id="gameScreen"></div>
-		<div id="output">degugger</div>
+		<div id="output">Space Invaders</div>
 	</body>
 </html>
